@@ -1,0 +1,56 @@
+#watermelonphoto    {
+    height: 100%;
+    width: 100%;
+}
+
+thead {
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #59853A;
+
+}
+
+.navbar-default .navbar-nav>li>a { 
+    color: #fff; 
+}
+
+.navbar-default .navbar-nav>li>a:hover { 
+    color: #ccc; 
+}
+
+.navbar-default .navbar-brand{
+    color: #fff; 
+}
+#odd{
+    background-color: #59853A;
+}
+
+#even{
+    background-color: #C61027;
+    color: #fff
+}
+
+h3{
+    color: #C61027;
+}
+
+.greenthing{
+    color: #59853A;
+}
+
+h3>.glyphicon{
+    padding-right: 10px;
+    font-size: 80%;
+}
+
+.row {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.lead {
+    padding-top: 10px;
+    text-align: center;
+}
